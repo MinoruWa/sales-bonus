@@ -1,1 +1,1 @@
-https://github.com/MinoruWa/sales-bonus#
+https://github.com/MinoruWa/sales-bonus
